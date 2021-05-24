@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNG]" guice-stage="DEVELOPMENT">
+  <test name="RestAPIAutomation(failed)">
+    <classes>
+      <class name="Tests.TestCase_001">
+        <methods>
+          <include name="initialization"/>
+          <include name="deleteEmployeeDetails"/>
+        </methods>
+      </class> <!-- Tests.TestCase_001 -->
+    </classes>
+  </test> <!-- RestAPIAutomation(failed) -->
+</suite> <!-- Failed suite [TestNG] -->
